@@ -1,5 +1,5 @@
 module.exports = {
-  SESSION_ID: "blinder~5ZBniDrA#Abf_4HAZ-fkFmVb699ffGHwm9LETvaXknX--L9M8wgE",  // add your Session Id make sure it starts with blinder~
-  OWNER_NUMBER: "254116266407", // PUT OWNER NUMBER HERE
+  SESSION_ID: "blinder~cAgVzCaK#EFWnIfOUbbTSd2xX7vKzh1xmDFNA_mKKMW4SyT8cywQ",  // add your Session Id make sure it starts with blinder~
+  OWNER_NUMBER: "2349018704936", // PUT OWNER NUMBER HERE
   PREFIX: "." // prefix (e.g., ., /, !, *)
 };
